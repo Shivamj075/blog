@@ -1,0 +1,19 @@
+ <!DOCTYPE html>
+ <html>
+ <head>
+   <title>My Blog {{article_id}}</title>
+ </head>
+ <body>
+    <header>
+       <h1> <a href="{% url 'home' %}">My Personal Blog</a> </h1>
+     </header>
+   
+    <div class="article">
+      <h4>{{details.title}}</h4>
+      <hr>
+      <h2>{{details.body}}</h2>
+             
+              
+    </div>
+ </body>
+ </html>
