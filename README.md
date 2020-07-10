@@ -1,7 +1,7 @@
 # myblog
 
 # Introduction
-A personal blog where admin will able to add so that the users will able to read all the articles.
+A personal blog where admin will able to add articles which are written by different author so that whenever the users visit will able to read all the articles.
 
 # Getting Started
 
